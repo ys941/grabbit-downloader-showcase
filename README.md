@@ -136,6 +136,12 @@ Grabbit is a tool for downloading **content you have the right to download**. Pl
 
 ---
 
+## ⭐ Star the repo
+
+If this work is interesting to you, star it — that's how the next person finds it.
+
+---
+
 ## 📬 Contact the developer
 
 Interested in this or **any of Bhardwaj's projects** — a demo, a walkthrough, collaboration, or licensing?
